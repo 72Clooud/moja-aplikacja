@@ -8,3 +8,5 @@ def podziel(a, b):
 if __name__ == "__main__":
     print(dodaj(2, 3))
     print(podziel(10, 2))
+
+    #siema
