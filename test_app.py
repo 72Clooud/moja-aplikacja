@@ -1,4 +1,5 @@
 # test_app.py - Testy kalkulatora
+# webhook test 
 from app import dodaj, odejmij, pomnoz
 def test_dodaj():
     assert dodaj(2, 3) == 5
